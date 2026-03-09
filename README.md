@@ -46,6 +46,11 @@ image-slider
 * The `active` class determines which slide is visible.
 
 ---
+## Live Demo
+
+https://kashavkoli0167-hue.github.io/Syntecxhub-Image-Slider/
+
+---
 
 ## ⌨️ Keyboard Controls
 
