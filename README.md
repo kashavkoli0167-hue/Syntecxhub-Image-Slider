@@ -66,9 +66,9 @@ The slider adjusts based on screen size to work smoothly on:
 
 ---
 
-## 📸 Demo
+## 📸 Screenshot
 
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5682227f-3f8d-45c4-90eb-c351363e959a" />
 
 ---
 
@@ -81,5 +81,5 @@ The slider adjusts based on screen size to work smoothly on:
 ---
 
 
----
+
 
